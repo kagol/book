@@ -1,0 +1,373 @@
+{
+    "root": {
+        "data": {
+            "id": "czyz6ufh8kg0",
+            "created": 1710978305307,
+            "text": "初中语文"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "czyz6ysiatc0",
+                    "created": 1710978314802,
+                    "text": "七年级"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "czyz7fzwprs0",
+                            "created": 1710978352255,
+                            "text": "1 春 / 朱自清"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyz7sseau80",
+                            "created": 1710978380099,
+                            "text": "2 济南的冬天  / 老舍"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyz83iogmg0",
+                            "created": 1710978403456,
+                            "text": "3* 雨的四季 / 刘湛秋"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyz88sny9k0",
+                            "created": 1710978414943,
+                            "text": "4 古代诗歌四首"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "czyz8kfozb40",
+                                    "created": 1710978440280,
+                                    "text": "观沧海 / 曹操"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyz8pqdsrk0",
+                                    "created": 1710978451811,
+                                    "text": "闻王昌龄左迁龙标遥有此寄 / 李白"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyz92l5i6o0",
+                                    "created": 1710978479792,
+                                    "text": "次北固山下 / 王湾"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyz9g9gokw0",
+                                    "created": 1710978509561,
+                                    "text": "天净沙·秋思 / 马致远"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "czyz9sor5nc0",
+                            "created": 1710978536607,
+                            "text": "5 秋天的怀念 / 史铁生"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyz9zpfkns0",
+                            "created": 1710978551885,
+                            "text": "6 散步 / 莫怀戚"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyza5bhxpc0",
+                            "created": 1710978564103,
+                            "text": "7 散文诗二首"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "czyzayzahq80",
+                                    "created": 1710978628669,
+                                    "text": "金色花 / 泰戈尔"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzb1r1aww0",
+                                    "created": 1710978634700,
+                                    "text": "荷叶·母亲 / 冰心"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "czyzaa4jef40",
+                            "created": 1710978574566,
+                            "text": "8* 《世说新语》二则"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "czyzaijtfi80",
+                                    "created": 1710978592904,
+                                    "text": "咏雪"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzapj5zfk0",
+                                    "created": 1710978608103,
+                                    "text": "陈太丘与友期行"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "czyzbd5htzc0",
+                            "created": 1710978659519,
+                            "text": "9 从百草园到三味书屋 / 鲁迅"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzbknnra80",
+                            "created": 1710978675854,
+                            "text": "10* 再塑生命的人 / 海伦·凯勒"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzbu1x0400",
+                            "created": 1710978696308,
+                            "text": "11 《论语》十二章"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzdaozesg0",
+                            "created": 1710978810895,
+                            "text": "12 纪念白求恩 / 毛泽东"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzdf1u1uw0",
+                            "created": 1710978820379,
+                            "text": "13 植树的牧羊人 / 让·乔诺"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzdp149200",
+                            "created": 1710978842104,
+                            "text": "14 走一步，再走一步 / 莫顿·亨特"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzduob5800",
+                            "created": 1710978854390,
+                            "text": "15 诫子书 / 诸葛亮"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzewzkzw80",
+                            "created": 1710978937789,
+                            "text": "16 猫 / 郑振铎"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzf2qv3j40",
+                            "created": 1710978950323,
+                            "text": "17 动物笑谈 / 康拉德·劳伦兹"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzf5dy2uo0",
+                            "created": 1710978956072,
+                            "text": "18 狼 / 蒲松龄"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzfrcwc6g0",
+                            "created": 1710979003898,
+                            "text": "19 皇帝的新装 / 安徒生"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzfvwms6g0",
+                            "created": 1710979013798,
+                            "text": "20 天上的街市 / 郭沫若"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzfy9guf40",
+                            "created": 1710979018928,
+                            "text": "21 女娲造人 / 袁珂"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "czyzg0han9s0",
+                            "created": 1710979023755,
+                            "text": "22 寓言四则"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "czyzh7mq8yo0",
+                                    "created": 1710979117685,
+                                    "text": "赫尔墨斯和雕像者 / 《伊索寓言》"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzhc4olk00",
+                                    "created": 1710979127478,
+                                    "text": "蚊子和狮子 / 《伊索寓言》"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzgvucg7k0",
+                                    "created": 1710979092024,
+                                    "text": "穿井得一人 / 《吕氏春秋》"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzh05vck80",
+                                    "created": 1710979101428,
+                                    "text": "杞人忧天 / 《列子》"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "czyzialub4w0",
+                            "created": 1710979202526,
+                            "text": "名著导读"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "czyzicuf95k0",
+                                    "created": 1710979207398,
+                                    "text": "《西游记》"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "czyziicy6eg0",
+                            "created": 1710979219402,
+                            "text": "课外古诗词诵读"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "czyzipc4msw0",
+                                    "created": 1710979234590,
+                                    "text": "秋词 / 刘禹锡"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzit2u1r40",
+                                    "created": 1710979242735,
+                                    "text": "夜雨寄北 / 李商隐"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzj5u89000",
+                                    "created": 1710979270513,
+                                    "text": "十一月四日风雨大作 / 陆游"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "czyzjdgueyw0",
+                                    "created": 1710979287118,
+                                    "text": "潼关 / 谭嗣同"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "czyz70e119k0",
+                    "created": 1710978318280,
+                    "text": "八年级"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "czyz71yqtpk0",
+                    "created": 1710978321709,
+                    "text": "九年级"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
